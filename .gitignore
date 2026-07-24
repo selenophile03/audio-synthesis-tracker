@@ -1,0 +1,12 @@
+# Compiled binary executables
+tracker
+tracker.exe
+*.o
+*.out
+
+# Generated audio files
+*.wav
+
+# Operating system metadata files
+.DS_Store
+Thumbs.db
